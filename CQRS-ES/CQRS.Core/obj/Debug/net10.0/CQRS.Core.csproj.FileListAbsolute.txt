@@ -1,0 +1,12 @@
+E:\CSharp-courses\CQRS and Kafka\CQRS_Kafka_Project\CQRS-ES\CQRS.Core\bin\Debug\net10.0\CQRS.Core.deps.json
+E:\CSharp-courses\CQRS and Kafka\CQRS_Kafka_Project\CQRS-ES\CQRS.Core\bin\Debug\net10.0\CQRS.Core.dll
+E:\CSharp-courses\CQRS and Kafka\CQRS_Kafka_Project\CQRS-ES\CQRS.Core\bin\Debug\net10.0\CQRS.Core.pdb
+E:\CSharp-courses\CQRS and Kafka\CQRS_Kafka_Project\CQRS-ES\CQRS.Core\obj\Debug\net10.0\CQRS.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharp-courses\CQRS and Kafka\CQRS_Kafka_Project\CQRS-ES\CQRS.Core\obj\Debug\net10.0\CQRS.Core.AssemblyInfoInputs.cache
+E:\CSharp-courses\CQRS and Kafka\CQRS_Kafka_Project\CQRS-ES\CQRS.Core\obj\Debug\net10.0\CQRS.Core.AssemblyInfo.cs
+E:\CSharp-courses\CQRS and Kafka\CQRS_Kafka_Project\CQRS-ES\CQRS.Core\obj\Debug\net10.0\CQRS.Core.csproj.CoreCompileInputs.cache
+E:\CSharp-courses\CQRS and Kafka\CQRS_Kafka_Project\CQRS-ES\CQRS.Core\obj\Debug\net10.0\CQRS.Core.dll
+E:\CSharp-courses\CQRS and Kafka\CQRS_Kafka_Project\CQRS-ES\CQRS.Core\obj\Debug\net10.0\refint\CQRS.Core.dll
+E:\CSharp-courses\CQRS and Kafka\CQRS_Kafka_Project\CQRS-ES\CQRS.Core\obj\Debug\net10.0\CQRS.Core.pdb
+E:\CSharp-courses\CQRS and Kafka\CQRS_Kafka_Project\CQRS-ES\CQRS.Core\obj\Debug\net10.0\ref\CQRS.Core.dll
+E:\CSharp-courses\CQRS and Kafka\CQRS_Kafka_Project\CQRS-ES\CQRS.Core\obj\Debug\net10.0\CQRS.Core.csproj.AssemblyReference.cache
